@@ -1,6 +1,6 @@
 # Yo, its Pranav here 👋🏻 
 
-[<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/ps428)
+[<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ps428)
 [<img align="left" style="margin-right:10px"  alt="Arihant | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/ps428)
 <br/>
 
@@ -22,7 +22,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - Learning Algorithms and Developemnt (Flutter, Web). Interested in Cyber security, CTFs, Blockchain and Algorithms.
 
-- Connect with me on LinkedIn to discuss about work or anything you like:  [<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/ps428)
+- Connect with me on LinkedIn to discuss about work or anything you like:  [<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ps428)
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
