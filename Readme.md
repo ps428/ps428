@@ -6,6 +6,8 @@
 
 You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
+![](bg.png)
+
 ## About me:
 
 - Favourite quote: Never trade your passion for glory!!!
