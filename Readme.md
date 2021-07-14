@@ -26,7 +26,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
-- Currently reading The Secret by Rhonda Byrne.
+- Currently reading Ravana: Enemy of Aryavarta by Amish Tripathi.
 
 ---
 
