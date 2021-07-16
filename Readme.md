@@ -1,7 +1,7 @@
 # Yo, its Pranav here 👋🏻 
 
-[<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ps428)
-[<img align="left" style="margin-right:10px"  alt="Arihant | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/ps428)
+[<img style="margin-right:20px"  alt="LinkdeIN-ps428 | LinkedIn" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/in/ps428)
+[<img align="left" style="margin-right:20px"  alt="Pranav | Github" width="32px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />](https://github.com/ps428)
 <br/>
 
 You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
@@ -22,7 +22,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - Learning Algorithms and Developemnt (Flutter, Web). Interested in Cyber security, CTFs, Blockchain and Algorithms.
 
-- Connect with me on LinkedIn to discuss about work or anything you like:  [<img style="margin-right:10px"  alt="LinkdeIN-ps428 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ps428)
+- Connect with me on LinkedIn to discuss about work or anything you like:  [<img style="margin-right:30px"  alt="LinkdeIN-ps428 | LinkedIn" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/in/ps428)
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
@@ -30,7 +30,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 ---
 
-### Public repo summary:
+## Public repo summary:
 
 <p align="center" style="text-align:center; display:inline-block;">
 
@@ -39,9 +39,13 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 <p align="center" style="display:block;">
 <a href="https://github.com/ps428">
   <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps428&theme=dark" />
+  
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ps428&show_icons=true&theme=dark" alt="Pranav's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ps428&show_icons=true&theme=dark&count_private=true" alt="Pranav's github stats"/>
 </a></p>
+
+
+
 
 ---
 
