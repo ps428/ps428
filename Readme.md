@@ -14,8 +14,6 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - I am a Computer Science undergraduate at Shiv Nadar University, India &#127470;&#127475;
 
-- I am currently summer intern with Career Developement Center at Shiv Nadar University. Working on corporate relations and making automation possible wherever I can.
-
 - I love learning new stuff and always ready to try something new.
 
 - I love to code 🖥️, cook 👨‍🍳 and workout 💪🏻.
@@ -26,7 +24,7 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
-- Currently reading Ravana: Enemy of Aryavarta by Amish Tripathi.
+- Currently reading Can't Hurt Me by David Goggins.
 
 ---
 
