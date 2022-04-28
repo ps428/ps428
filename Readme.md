@@ -1,10 +1,11 @@
 # Yo, its Pranav here 👋🏻 
-
-[<img style="margin-right:20px"  alt="LinkdeIN-ps428 | LinkedIn" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/in/ps428)
-[<img align="left" style="margin-right:20px"  alt="Pranav | Github" width="32px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />](https://github.com/ps428)
-<br/>
-
-You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
+<code>
+    <a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+<code>
+    <a href="https://www.github.com/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
+    <br/>
+<br>
+</br>
 
 ![](bg.png)
 
@@ -20,7 +21,9 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 - Learning Algorithms and Developemnt (Flutter, Web). Interested in Cyber security, CTFs, Blockchain and Algorithms.
 
-- Connect with me on LinkedIn to discuss about work or anything you like:  [<img style="margin-right:30px"  alt="LinkdeIN-ps428 | LinkedIn" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://linkedin.com/in/ps428)
+- Connect with me on LinkedIn to discuss about work or anything you like:  <code>
+    <a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+<code>
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
@@ -30,6 +33,9 @@ You are the user number : ![](https://komarev.com/ghpvc/?username=ps428)
 
 ## Public repo summary:
 
+  <p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ps428&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+</p>
 <p align="center" style="text-align:center; display:inline-block;">
 
 </p>
