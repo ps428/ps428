@@ -23,11 +23,11 @@
 
 - Connect with me on LinkedIn to discuss about work or anything you like:  <code>
     <a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-<code>
+
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
-- Currently reading Can't Hurt Me by David Goggins.
+- Currently reading My Geeta by Devdutt Pattanaik.
 
 ---
 
