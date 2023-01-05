@@ -27,7 +27,7 @@
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
-- Currently reading My Geeta by Devdutt Pattanaik.
+- Currently reading The Richest Man in Babylon by George Samuel Clason.
 
 ---
 
