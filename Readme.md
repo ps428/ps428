@@ -40,13 +40,6 @@
 
 </p>
 
-<p align="center" style="display:block;">
-<a href="https://github.com/ps428">
-  <img align="center" style="margin-bottom:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps428&theme=dark" />
-  
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ps428&show_icons=true&theme=dark&count_private=true" alt="Pranav's github stats"/>
-</a></p>
 
 
 
