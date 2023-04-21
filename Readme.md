@@ -39,6 +39,8 @@
 
 ## Public repo summary:
 
+![](https://komarev.com/ghpvc/?username=ps428&label=PROFILE+VIEWS)
+
   <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ps428&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
