@@ -33,15 +33,31 @@
 
 - Always ready for working / learning opportunities. To rest is to rust!
 
-- Currently reading The Richest Man in Babylon by George Samuel Clason (on hold for the 4th time)
+- Currently reading The 5 AM Club by Robin Sharma
 
 ---
 
 ## Public repo summary:
-
 ![](https://komarev.com/ghpvc/?username=ps428&label=PROFILE+VIEWS)
 
-  <p align="center"> 
+### Contributions graph:
+  
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ps428&theme=gotham" alt="Contributions" />
+</p>   
+
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ps428&theme=gotham" alt="Stats" />
+</p> 
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ps428&theme=gotham" alt="Repos" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ps428&theme=gotham" alt="Repos" />
+</p> 
+
+    
+### Streak
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ps428&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 <p align="center" style="text-align:center; display:inline-block;">
