@@ -1,9 +1,11 @@
 # Yo, its Pranav here 👋🏻 
-<code>
-    <a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-<code>
-    <a href="https://www.github.com/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
-    <br/>
+
+
+<code><a href="https://ps428-portfolio.web.app/" title="Portfolio"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/laptop-code.svg" width=24>Portfolio</a></code>
+<code><a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+<code><a href="https://www.github.com/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
+<code><a href="[https://www.github.com/ps428/](https://stackoverflow.com/users/12875504/pranav-soni)" title="Stack OverFlow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack OverFlow</a></code>
+<br/>
 <br>
 </br>
 
