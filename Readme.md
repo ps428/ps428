@@ -9,7 +9,7 @@
 <br>
 </br>
 
-![](bg.png)
+![](bg2.png)
 
 ## About me:
 
