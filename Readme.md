@@ -13,29 +13,20 @@
 
 ## About me:
 
-- Before anything, check out this [python package](https://pypi.org/project/print-position/) that I have recently published. The current download stas are: [![Downloads](https://static.pepy.tech/badge/print-position)](https://pepy.tech/project/print-position) [![Downloads](https://static.pepy.tech/badge/print-position/month)](https://pepy.tech/project/print-position)
-
-- I am a Computer Science undergraduate at Shiv Nadar University, India &#127470;&#127475;
+- Before anything, check out this [python package](https://pypi.org/project/print-position/) that I have published. The current download stas are: [![Downloads](https://static.pepy.tech/badge/print-position)](https://pepy.tech/project/print-position) [![Downloads](https://static.pepy.tech/badge/print-position/month)](https://pepy.tech/project/print-position)
 
 - Favourite quote: Do what you love, love what you do!
 
 - Also this one: Never trade your passion for glory!!!
 
-- I am currently pursuing a project at the Indian Space Research Organization (ISRO).
-
-- I love to learn new things and I am always ready to try something new.
-
-- Recently, I have been working extensively with maps, particularly Leaflet maps.
-
-- Learning Algorithms and Developemnt (Web or Flutter or anything new!).
+- Co-founder at [Elapse.ai](https://www.elapse.ai/)
 
 - Connect with me on LinkedIn to discuss about work or anything you like:  <code>
     <a href="https://www.linkedin.com/in/ps428/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 
+- Always ready for working / learning opportunities. **To rest is to rust!**
 
-- Always ready for working / learning opportunities. To rest is to rust!
-
-- Currently reading The 5 AM Club by Robin Sharma
+- Currently reading Algorithms to Live By, Nationalism by Tagore and a few more 📖📖
 
 ---
 
